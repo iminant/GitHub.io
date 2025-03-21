@@ -2,4 +2,4 @@
 layout: page
 title: "About Me"
 ---
-![iminant]({{github.io}}/assets/img/Me.jpg)  
+![Me.jpg]/assets/img/Me.jpg)  
