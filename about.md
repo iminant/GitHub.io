@@ -2,4 +2,4 @@
 layout: page
 title: "About Me"
 ---
-![Me](https://github.com/user-attachments/assets/03866de4-5db2-428f-877e-4ba2d1c51c84)
+![Me](https://github.com/user-attachments/assets/6a5853d0-afa5-4bb5-a6f1-dabce252718d)
