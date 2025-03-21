@@ -2,4 +2,4 @@
 layout: page
 title: "About Me"
 ---
-![Me.jpg]/assets/img/Me.jpg)  
+![Photo]/assets/img/Me.jpg)  
