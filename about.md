@@ -2,4 +2,4 @@
 layout: page
 title: "About Me"
 ---
-![Me](Assets/img/Me.jpg)
+GitHub.io/assets/img/Me.jpg
