@@ -5,9 +5,12 @@ url: /auto-insurance/
 url: /health-insurance/
 -title: "Life Insurance"
 url: /life-insurance/
+-title: "Travelers Insurance"
+url: /travelers-insurance/
 -title: "Pet Insurance"
 url: /pet-insurance/
-
+-title: "Misc Insurance"
+url: /misc-insurance/
 -title: "About"
 url: /about/
 
