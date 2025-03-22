@@ -1,1 +1,12 @@
+your_name:  # "andrewortiz"
+  name: "Andrew Ortiz"
+  bio: "Helping consumers decode insurance policies. Not an agent—just a dad who hates fine print."
+  links:
+    - title: "Pinterest"
+      url: "https://www.pinterest.com/ao4382/"
+      icon: "fab fa-pinterest"
+    - title: "LinkedIn"
+      url: "https://www.linkedin.com/in/andrew-ortiz-0a9b28354/"
+      icon: "fab fa-linkedin"
+  sidebar: true  # Shows your bio in the sidebar (Hydejack feature)
 
