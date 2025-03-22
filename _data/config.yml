@@ -1,1 +1,6 @@
-
+ title: "Insurance Decoded"  
+baseurl: ""  
+url: "https://iminant.github.io" # Replace with your GitHub URL  
+theme: jekyll-theme-hydejack  
+plugins:  
+  - jekyll-seo-tag  
