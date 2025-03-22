@@ -8,5 +8,7 @@ your_name:  # "andrewortiz"
     - title: "LinkedIn"
       url: "https://www.linkedin.com/in/andrew-ortiz-0a9b28354/"
       icon: "fab fa-linkedin"
-  sidebar: true  # Shows your bio in the sidebar (Hydejack feature)
+  sidebar: true #
+  
+  
 
