@@ -1,1 +1,13 @@
+header:
+-title: "Auto Insurance"
+url: /auto-insurance/
+-title: "Health Insurance"
+url: /health-insurance/
+-title: "Life Insurance"
+url: /life-insurance/
+-title: "Pet Insurance"
+url: /pet-insurance/
+
+-title: "About"
+url: /about/
 
