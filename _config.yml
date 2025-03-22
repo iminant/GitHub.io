@@ -16,7 +16,18 @@ hydejack:
     health-insurance:
       output: true
       permalink: /health-insurance/:title
-
+    life-insurance:
+      output: true
+      permalink: /life-insurance/:title
+    travelers-insurance:
+      output: true
+      permalink: /travelers-insurance/:title
+    pet-insurance:
+      output: true
+      permalink: /pet-insurance/:title
+    misc-insurance:
+      output: true
+      permalink: /misc-insurance/:title
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
