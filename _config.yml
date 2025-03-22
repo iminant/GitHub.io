@@ -1,5 +1,24 @@
-  title: "Insurance Help Blog"  
-description: "Expert unemployment insurance guidance."  
-url: "https://insurancehelp.blog" # iminant.GitHub.io 
-remote_theme: hydecorp/hydejack@v9.1.6 # 
-- jekyll-include-cache
+title: "Insurance Decoded"
+tagline: "Cut Through the Jargon, Avoid Costly Mistakes"
+description: >
+  Real talk from a consumer who’s been there: Auto, Health, Home, Dental, 
+  and Life insurance guides without the sales pitch.
+
+# -- Theme Settings --
+hydejack:
+  theme_color: "#2A5C8A"
+  author:
+    name: "Your Name"
+    email: your@insurancehelp.blog
+  collections:
+    auto-insurance:
+      output: true
+      permalink: /auto-insurance/:title
+    health-insurance:
+      output: true
+      permalink: /health-insurance/:title
+
+# -- Build Settings --
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
