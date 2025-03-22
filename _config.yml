@@ -4,12 +4,11 @@ description: >
   Real talk from a consumer who’s been there: Auto, Health, Home, Dental, 
   and Life insurance guides without the sales pitch.
 
-# -- Theme Settings --
 hydejack:
   theme_color: "#2A5C8A"
   author:
-    name: "Your Name"
-    email: your@insurancehelp.blog
+    name: "Andrew Ortiz"
+    email: a.ortiz2020@yahoo.com
   collections:
     auto-insurance:
       output: true
@@ -18,7 +17,6 @@ hydejack:
       output: true
       permalink: /health-insurance/:title
 
-# -- Build Settings --
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
